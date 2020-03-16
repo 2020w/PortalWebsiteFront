@@ -25,13 +25,13 @@
 
 <script>
 // 导入组件
-import Header from './bussiness/home/Header';
-import About from './bussiness/home/About';
-import Team from './bussiness/home/Team';
-import Style from './bussiness/home/Style';
-import Service from './bussiness/home/Service';
-import Contact from './bussiness/home/Contact';
-import Footer from './bussiness/home/Footer';
+import Header from './childComps/Header';
+import About from './childComps/About';
+import Team from './childComps/Team';
+import Style from './childComps/Style';
+import Service from './childComps/Service';
+import Contact from './childComps/Contact';
+import Footer from './childComps/Footer';
 
 export default {
   components: {
